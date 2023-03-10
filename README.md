@@ -11,3 +11,10 @@
 
 **Dataset:** https://www.kaggle.com/datasets/gpiosenka/yikes-spiders-15-species
 
+| **ATIVIDADE**                    | **DATA LIMITE** | **STATUS**         |
+|----------------------------------|-----------------|--------------------|
+| Criação do repositório no Github | 07/03           | :heavy_check_mark: |
+| Análise Exploratória             | 09/03           | :heavy_check_mark: |
+| Tarefa de Aprendizado            | 14/03           | :x:                |
+| Análise dos Experimentos         | 16/03           | :x:                |
+| Apresentação dos Resultados      | 21/03           | :x:                |
